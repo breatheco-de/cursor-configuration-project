@@ -15,10 +15,12 @@ This project will guide you through customizing your Cursor environment to enhan
 By the end of this project, you'll have a personalized Cursor setup that aligns with your coding preferences, making your interactions with the AI smoother and more productive. We'll explore how to make Cursor more autonomous and proactive, based on preferences for rapid development.
 
 <how-to-start>
+
 ## 🌱 How to start this project
 
 1.  **Ensure Cursor is Installed:** If you haven't already, download and install Cursor from the official website.
 2.  **Open Cursor Settings:** Familiarize yourself with Cursor's settings interface. You can typically access this via `Code -> Settings -> Cursor Settings` (or `File -> Preferences -> Cursor Settings` on Windows/Linux), then look for Cursor-specific sections
+
 </how-to-start>
 
 ## 📝 Key Configuration Todos
