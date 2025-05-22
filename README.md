@@ -1,6 +1,6 @@
 ---
 title: "Configure Your Cursor Environment for Optimal AI Collaboration"
-subtitle: "Learn how to customize your Cursor settings, define powerful custom rules, and leverage advanced features like Model-Copilot Protocols to create a personalized AI-assisted development workflow that enhances your productivity."
+subtitle: "Learn to customize Cursor settings, create powerful custom rules, and use advanced features like MCPs to build a personalized AI-assisted workflow that boosts your development productivity."
 tags: ["cursor", "ai", "productivity", "development-tools", "configuration"]
 authors: ["tommygonzaleza"]
 
