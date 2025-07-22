@@ -15,6 +15,9 @@
   "projectType": "project",
   "repository": "https://github.com/4GeeksAcademy/your-first-ai-first-coding-implementation-plan",
   "preview": "https://github.com/4GeeksAcademy/your-first-ai-first-coding-implementation-plan/blob/main/preview.png?raw=true",
+  "delivery": {
+		"formats": ["no_delivery"]
+	},
   "sharing": [
     {
       "en": "Just planned my first AI-driven project from scratch! Ready to guide my AI partner to build something amazing. Thanks @4GeeksAcademy! #AIcoding #ProjectPlanning #MVP",
